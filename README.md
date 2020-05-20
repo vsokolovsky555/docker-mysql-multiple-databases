@@ -1,4 +1,4 @@
-# Using multiple databases with the official PostgreSQL Docker image
+# Using multiple databases with the official MySQL Docker image
 
 The [official recommendation](https://hub.docker.com/_/mysql) for creating
 multiple databases is as follows:
